@@ -1,0 +1,64 @@
+BRANCH METRICS, INC. SOFTWARE LICENSE TERMS
+
+BRANCH NATIVE COMPUTE SDK LIBRARY (hereinafter referred to as the “software”)
+
+These terms are an agreement between you and Branch Metrics, Inc. ("Branch"). They apply to the software named above. The software includes, but is not limited to SDK, content, visual interfaces, interactive features, information, graphics, design, compilation, computer code, products, services, and all other elements of the SDK and related documentation. The terms also apply to any Branch services or updates for the software, except to the extent those have different terms.
+
+IF YOU COMPLY WITH THESE TERMS, YOU HAVE THE FOLLOWING LIMITED, NON-EXCLUSIVE, NON-TRANSFERABLE, NON-SUBLICENSABLE, REVOCABLE RIGHTS BELOW. BY DOWNLOADING, INSTALLING, OR OTHERWISE ACCESSING OR USING THE SOFTWARE, YOU AGREE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THESE TERMS. IF YOU DO NOT AGREE, YOU MAY NOT USE THE SOFTWARE.
+
+
+1. INSTALLATION AND USE RIGHTS. You may install and use any number of copies of the software to develop and test your applications.
+
+2. THIRD PARTY COMPONENTS. The software may include third party components with separate legal notices or governed by other agreements, as may be described in the third party notices file(s) accompanying the software.
+
+3. ADDITIONAL LICENSING REQUIREMENTS AND/OR USE RIGHTS.
+
+a. DISTRIBUTABLE CODE. The software is comprised of Distributable Code. “Distributable Code” is code that you are permitted to distribute in applications you develop if you comply with the terms below.
+
+Right to Use and Distribute. You may copy and distribute the object code form of the software.
+
+Third Party Distribution. You may permit distributors of your applications to copy and distribute the Distributable Code as part of those applications
+
+Distribution Requirements. For any Distributable Code you distribute, you must (i) use the Distributable Code in your applications and not as a standalone distribution; (ii) require distributors and external end users to agree to terms that protect it at least as much as this agreement; and (iii) indemnify, defend, and hold harmless Branch from any claims, including attorneys’ fees, related to the distribution or use of your applications, except to the extent that any claim is based solely on the unmodified Distributable Code.
+
+Distribution Restrictions. You may not: (i) use Branch’s trademarks in your applications’ names or in a way that suggests your applications come from or are endorsed by Branch; or (ii) modify or distribute the source code of any Distributable Code so that any part of it becomes subject to an Excluded License. An “Excluded License” is one that requires, as a condition of use, modification or distribution of code, that (a) it be disclosed or distributed in source code form; or (b) others have the right to modify it.
+
+4. DATA
+
+a. Data Collection. The software may collect information about you and your use of the software, and send that to Branch. Branch may use this information to provide services and improve our products and services. There are also features in the software that may enable you and Branch to collect data from users of your applications. If you use these features, you must comply with applicable law, including providing appropriate notices to users of your applications together with Branch’s Privacy Policy. Branch’s Privacy Policy is located at https://branch.io/policies/privacy-policy/. You can learn more about data collection and its use from the software documentation and Branch's Privacy Policy. Your use of the software operates as your consent to these practices.
+
+b. Processing of Personal Data. To the extent Branch is a processor or subprocessor of personal data in connection with the software, Branch makes the commitments with respect to data subjects as set forth in the “Rights For Residents of the European Economic Area and United Kingdom” section of Branch’s Privacy Policy to all customers effective May 25, 2018, at https://branch.io/policies/data-subject-rights/#data-subject-rights-european-general-data-protection-regulation (or its successor URL).
+
+5. SCOPE OF LICENSE. The software is licensed, not sold. This agreement only gives you some rights to use the software. Branch reserves all other rights. Unless applicable law gives you more rights despite this limitation, you may use the software only as expressly permitted in this agreement. In doing so, you must comply with any technical limitations in the software that only allow you to use it in certain ways. You may not (i) work around any technical limitations in the software; (ii) reverse engineer, decompile or disassemble the software, or otherwise attempt to derive the source code for the software, except and to the extent required by third party licensing terms governing use of certain open source components that may be included in the software; (iii) remove, minimize, block or modify any notices of Branch or its suppliers in the software; (iv) use the software in any way that is against the law; or (v) share, publish, rent or lease the software, provide the software as a stand-alone offering for others to use, or transfer the software or this agreement to any third party.
+
+6. FEEDBACK. If you provide Branch with any verbal or written comments, bug reports, feedback, enhancements, optimizations, or modifications proposed or suggested by you for the software ("Feedback"), such Feedback is provided on a non-confidential basis (notwithstanding any notice to the contrary you may include in any accompanying communication), and Branch shall have the right to use such Feedback at its discretion, including, but not limited to the incorporation of such suggested changes into the software. You hereby grant Branch a worldwide, perpetual, irrevocable, royalty-free, fully paid, transferable, sublicensable, non-exclusive right and license under all rights necessary to so incorporate, use, and exploit your Feedback in any manner, without restriction, for any purpose, including to make and sell Branch products and services.
+
+7. RESERVATION OF RIGHTS. The software is owned by Branch and is licensed, not sold, to you. The software is protected by copyright, trade dress, patent, and trademark laws of the United States and other jurisdictions, international conventions, and all other relevant intellectual property and proprietary rights, and applicable laws. As between you and Branch, all aspects of the software, including intellectual property rights therein and thereto, are the sole and exclusive property of Branch or its subsidiaries or affiliated companies and/or its third-party licensors. You may not sell, license, distribute, copy, modify, publicly perform or display, transmit, publish, edit, adapt, create derivative works from, or make any use of the software except as expressly authorized hereunder. Branch reserves all rights not expressly granted in this agreement. You do not acquire any right, title or interest to the software, whether by implication, estoppel, or otherwise, except for the limited rights set forth in this agreement.
+
+8. SOFTWARE EXPECTATIONS. The software: (i) is not an official product and has not been commercially released; (ii) may not be in final form or be fully functional; (iii) may contain errors, design flaws or other problems; (iv) may generate or produce inaccurate information or unexpected or incorrect results; (v) may cause loss of data or communications, project delays or other unpredictable damage or loss; (vi) may never be released as a commercial version; and (vii) may be discontinued by Branch in whole or in part, at any time and without any obligation or liability to you or your users. Use of the software may be conditional on your acceptance of additional terms and conditions accompanying the software. In the event of any conflict between this agreement and additional terms and conditions accompanying the software, the latter will govern and control unless expressly stated otherwise.
+
+9. EXPORT RESTRICTIONS. You must comply with all domestic and international trade export laws and regulations that apply to the software, which include restrictions on destinations, end users, and end use. You represent that you are not named on any U.S. Government Consolidated Screening denied-party list which may be searched at: https://www.export.gov/article?id=Consolidated-Screening-List. You shall not permit any entity or individual to access or use the software who is listed on the Consolidated Screening List or located in a U.S. government-embargoed country, or known to be engaged in proliferation of nuclear, chemical or biological weapons or missiles, or otherwise in violation of any U.S. export law or regulation.
+
+10. SUPPORT SERVICES. Because this software is “as is,” Branch may not provide support services for it.
+
+11. ENTIRE AGREEMENT. This agreement, and the terms for supplements, updates, Internet-based services and support services that you use, are the entire agreement for the software and support services.
+
+12. APPLICABLE LAW. If you acquired the software in the United States, California law applies to interpretation of and claims for breach of this agreement, and the laws of the state where you live apply to all other claims. If you acquired the software in any other country, its laws apply.
+
+13. CONSUMER RIGHTS; REGIONAL VARIATIONS. This agreement describes certain legal rights. You may have other rights, including consumer rights, under the laws of your state or country. Separate and apart from your relationship with Branch, you may also have rights with respect to the party from which you acquired the software. This agreement does not change those other rights if the laws of your state or country do not permit it to do so. For example, if you acquired the software in one of the below regions, or mandatory country law applies, then the following provisions apply to you:
+
+a. Australia. You have statutory guarantees under the Australian Consumer Law and nothing in this agreement is intended to affect those rights.
+
+b. Canada. If you acquired this software in Canada, the product documentation, if any, may specify how to update the software integrated into your digital properties.
+
+c. Germany and Austria.
+
+Warranty. The software will perform substantially as described in any Branch materials that accompany it. However, Branch gives no contractual guarantee in relation to the software.
+
+Limitation of Liability. In case of intentional conduct, gross negligence, claims based on the Product Liability Act, as well as in case of death or personal or physical injury, Branch is liable according to the statutory law. Subject to the foregoing clause (ii), Branch will only be liable for slight negligence if Branch is in breach of such material contractual obligations, the fulfillment of which facilitate the due performance of this agreement, the breach of which would endanger the purpose of this agreement and the compliance with which a party may constantly trust in (so-called "cardinal obligations"). In other cases of slight negligence, Branch will not be liable for slight negligence.
+
+14. DISCLAIMER OF WARRANTY. THE SOFTWARE IS LICENSED “AS-IS.” YOU BEAR THE RISK OF USING IT. BRANCH GIVES NO EXPRESS WARRANTIES, GUARANTEES OR CONDITIONS. TO THE EXTENT PERMITTED UNDER YOUR LOCAL LAWS, BRANCH EXCLUDES THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+
+15. LIMITATION ON AND EXCLUSION OF REMEDIES AND DAMAGES. YOU CAN RECOVER FROM BRANCH AND ITS SUPPLIERS ONLY DIRECT DAMAGES UP TO U.S. $100.00. YOU CANNOT RECOVER ANY OTHER DAMAGES, INCLUDING CONSEQUENTIAL, LOST PROFITS, SPECIAL, INDIRECT OR INCIDENTAL DAMAGES. This limitation applies to (a) anything related to the software, services, content (including code) on third party Internet sites, or third party applications; and (b) claims for breach of contract, breach of warranty, guarantee or condition, strict liability, negligence, or other tort to the extent permitted by applicable law. It also applies even if Branch knew or should have known about the possibility of the damages. The above limitation or exclusion may not apply to you because your state or country may not allow the exclusion or limitation of incidental, consequential or other damages.
+
