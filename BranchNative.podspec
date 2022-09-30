@@ -16,7 +16,8 @@ Use the Branch SDK (branch.io) to create and power the links that point back to 
   spec.author             = { "BranchNative" => "native-compute@branch.io" }
   spec.platform 	        = :ios, '9.0'
   spec.ios.deployment_target = '9.0'
-  spec.source             = { :http => 'https://github.com/BranchMetrics/branch-native-ios/releases/download/v0.1.0/Branch.xcframework.zip' }
+  spec.source             = { :http => 'https://github.com/BranchMetrics/branch-native-ios/releases/download/v0.1.0/Branch.xcframework.zip',
+			      :sha256 => '943fa4be8615e27f87ff38fbcb909ce9f542ea25565b0649c63de8c506741fc3' }
   spec.ios.vendored_frameworks = 'Branch.xcframework'
 end
 
